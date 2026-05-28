@@ -40,11 +40,11 @@ yarn-error.*
 /ios
 /android
 
-# IAs
-*claude
-claude*
-CLAUDE.md
+# Claude Code
 tasks/
+.claude/
+CLAUDE.md
+CLAUDE.MD
 todo/
 todo.md
 tasks.md
