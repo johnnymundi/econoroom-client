@@ -39,3 +39,12 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# IAs
+*claude
+claude*
+CLAUDE.md
+tasks/
+todo/
+todo.md
+tasks.md
